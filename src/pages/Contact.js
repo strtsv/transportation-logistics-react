@@ -1,0 +1,8 @@
+Header
+MainMenuArea
+MobileMenu
+Breatcome
+ContactArea
+BrandArea
+FooterMiddle
+FooterBottom
